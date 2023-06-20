@@ -49,11 +49,8 @@ public class Main {
 
         compararFechas(FechaFinal_1, localDateTime);
 
-
-
-
     }
-    public static void compararFechas(String fecha_1,LocalDateTime localDateTime ){
+    public static void compararFechas(String fecha_1, LocalDateTime localDateTime ){
 
         String fecha1 = fecha_1;
         // Crear un formateador de fecha y hora
